@@ -18,7 +18,7 @@ public class Test {
         p.add(new JLabel("Testfeld"));
         p.add(new JTextField(50));
         Podest.pack();
-        Podest.setVisible(true);
+
 
 
 
