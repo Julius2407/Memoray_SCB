@@ -1,4 +1,4 @@
-package momory;
+package memory;
 
 //Klasse mit der Main-Methode
 public class Spielfeld {

@@ -5,4 +5,4 @@
  * @author D067650
  *
  */
-package momory;
+package memory;

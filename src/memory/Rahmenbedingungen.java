@@ -1,4 +1,4 @@
-package momory;
+package memory;
 
 
 //Klasse zum Regeln der Rahmenbedingungen des Spiels

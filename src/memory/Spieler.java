@@ -1,4 +1,4 @@
-package momory;
+package memory;
 
 public class Spieler {
 	
